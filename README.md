@@ -21,6 +21,9 @@ A production-grade Python system for automated processing and reconciliation of 
 - **Anomaly Detection**: Isolation Forest-based outlier detection
 - **File Watching**: Automated processing of new files
 - **Batch Processing**: Process multiple files at once
+<p align="center">
+  <img src="gif.mp4" alt="ExpenseFlow Global" width="700"/>
+</p>
 
 ## Architecture Overview
 
