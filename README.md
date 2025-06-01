@@ -27,7 +27,7 @@ A production-grade Python system for automated processing and reconciliation of 
 The following diagram illustrates the high-level architecture of **ExpenseFlow Global**, showcasing how different components such as OCR, LLM parsing, tax validation, currency conversion, and anomaly detection are orchestrated in the pipeline.
 
 <p align="center">
-  <img src="./" alt="ExpenseFlow Global Architecture" width="700"/>
+  <img src="Add ExpenseFlow Global architecture image.jpg" alt="ExpenseFlow Global Architecture" width="700"/>
 </p>
 
 ## Installation
