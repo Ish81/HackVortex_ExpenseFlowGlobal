@@ -1,0 +1,9 @@
+Pillow
+pytesseract
+reportlab
+numpy
+pandas
+fpdf # Keeping this just in case, though reportlab is now primary
+# If you eventually decide to use PaddleOCR:
+# paddlepaddle==2.x.x
+# paddleocr
