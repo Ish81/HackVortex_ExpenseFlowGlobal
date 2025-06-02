@@ -26,7 +26,7 @@ A production-grade Python system for automated processing and reconciliation of 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ish81/HackVortex_ExpenseFlowGlobal/main/gif/demo.gif" alt="ExpenseFlow Global Demo" width="700"/>
+  <img src="https://github.com/Ish81/HackVortex_ExpenseFlowGlobal/blob/main/gif.mp4" alt="ExpenseFlow Global Demo" width="700"/>
 </p>
 
 
