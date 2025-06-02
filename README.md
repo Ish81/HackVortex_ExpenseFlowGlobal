@@ -25,6 +25,11 @@ A production-grade Python system for automated processing and reconciliation of 
   <img src="https://github.com/Ish81/HackVortex_ExpenseFlowGlobal/blob/main/gif.mp4" alt="ExpenseFlow Global" width="700"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ish81/HackVortex_ExpenseFlowGlobal/main/gif/demo.gif" alt="ExpenseFlow Global Demo" width="700"/>
+</p>
+
+
 ## Architecture Overview
 
 The following diagram illustrates the high-level architecture of **ExpenseFlow Global**, showcasing how different components such as OCR, LLM parsing, tax validation, currency conversion, and anomaly detection are orchestrated in the pipeline.
