@@ -22,7 +22,7 @@ A production-grade Python system for automated processing and reconciliation of 
 - **File Watching**: Automated processing of new files
 - **Batch Processing**: Process multiple files at once
 <p align="center">
-  <img src="gif.mp4" alt="ExpenseFlow Global" width="700"/>
+  <img src="https://github.com/Ish81/HackVortex_ExpenseFlowGlobal/blob/main/gif.mp4" alt="ExpenseFlow Global" width="700"/>
 </p>
 
 ## Architecture Overview
