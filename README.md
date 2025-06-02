@@ -23,9 +23,8 @@ A production-grade Python system for automated processing and reconciliation of 
 - **Batch Processing**: Process multiple files at once
 
 <p align="center">
-  <img src="https://github.com/Ish81/HackVortex_ExpenseFlowGlobal/blob/main/gif.mp4" alt="ExpenseFlow Global Demo" width="700"/>
+  <img src="https://github.com/Ish81/HackVortex_ExpenseFlowGlobal/blob/main/flow.gif?raw=true" alt="ExpenseFlow Global Demo" width="700"/>
 </p>
-
 
 ## Architecture Overview
 
